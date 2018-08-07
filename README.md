@@ -1,16 +1,16 @@
 # BSDS 100: Intro to Data Science with R
 
-## James D. Wilson
+## Abbie M. Popa
 
-**Email**: jdwilson4@usfca.edu
+**Email**: apopa@usfca.edu
 
-**Class Time**: TR, 9:55 - 11:40 AM in Harney 430
+**Class Time**: TR, 2:40 - 4:25 PM in Harney 430
 
-**Office Hours**: TR, 12:00 - 12:30 PM in Harney 107B
+**Office Hours**: TR, 1:20 - 2:20 PM in Harney 107B (James Wilson's Office)
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
-**Syllabus**: [Link](https://github.com/jdwilson4/Data100_Spring_2017/blob/master/Fall_2017.pdf)
+**Syllabus**: [Link](https://github.com/abbiepopa/BSDS100/blob/master/syllabus/Fall_2018.pdf)
 
 ## Course Learning Outcomes
 
@@ -41,7 +41,6 @@ The focus of this course will be to provide you with the basic techniques availa
 ### Schedule
 
 Overall, this course will be split into two main parts: (1) learning the basics of how to code in R and (2) performing data analysis on real case studies and examples using data science techniques in R.
-
 
 **Introduction**
 
