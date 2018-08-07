@@ -10,7 +10,7 @@
 
 **Book**: [R for Data Science](http://r4ds.had.co.nz/index.html) by Hadley Wickham and Garret Grolemund
 
-**Syllabus**: [Link](https://github.com/abbiepopa/BSDS100/blob/master/syllabus/Fall_2018.pdf)
+**Syllabus**: [Link](https://github.com/abbiepopa/BSDS100/blob/master/Syllabus/Fall_2018.pdf)
 
 ## Course Learning Outcomes
 
