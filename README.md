@@ -70,9 +70,9 @@ Overall, this course will be split into two main parts: (1) learning the basics 
    | :---  | :---:  | :---:  | :---:  | :---: |
    | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | | |  
    | [Wrangling Data](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
-   | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 8](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Visualization.pdf) | Friday, 10/27||
-   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 9/28| |
-   | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/5|  |
+   | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Visualization.pdf) | Friday, 10/27||
+   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 9/28| |
+   | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 8](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/5|  |
  
  
  **Programming**
