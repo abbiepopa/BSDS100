@@ -59,19 +59,20 @@ Overall, this course will be split into two main parts: (1) learning the basics 
   | [Vectors, Matrices, and Arrays](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment4.pdf)| Tuesday, 9/12| |
   | [Lists and Data Frames](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | [Data Structures III](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Data_Structures3.R) |
   | [Tibbles](http://r4ds.had.co.nz/tibbles.html)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| [HW 5](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Tibbles.pdf) | Tuesday, 9/26 |  |
-  | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 9/28| |
-   | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/5|  |
-  | [Factors](http://r4ds.had.co.nz/factors.html) | [Ch. 15 in R for Data Science](http://r4ds.had.co.nz/factors.html)| | | |
+  | Strings and Factors | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
+
+
   
   
   **Data Wrangling and Plotting**
   
    | Topic | Reading | Assignment | Due Date | In Class Code |
    | :---  | :---:  | :---:  | :---:  | :---: |
-   | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | | |
-   | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 8](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Visualization.pdf) | Friday, 10/27||
+   | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | | |  
    | [Wrangling Data](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
-   
+   | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 8](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Visualization.pdf) | Friday, 10/27||
+   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 9/28| |
+   | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/5|  |
  
  
  **Programming**
