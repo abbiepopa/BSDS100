@@ -41,7 +41,7 @@ The focus of this course will be to provide you with the basic techniques availa
 
 ### Schedule
 
-Overall, this course will be split into two main parts: (1) learning the basics of how to code in R and (2) performing data analysis on real case studies and examples using data science techniques in R.
+I will do my best to keep this schedule accurate and up to date. However, I reserve the right to change it as I deem necessary. Usually this will be due to the amount of material we are able to cover in class.
 
 **Introduction**
 
@@ -49,16 +49,16 @@ Overall, this course will be split into two main parts: (1) learning the basics 
  | :---  | :---:  | :---:  | :---:  | :---: |
  | [Introduction - History of Data Science](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%201%20Introduction.pdf) | [Ch. 1 What is Data Science?](https://www.safaribooksonline.com/library/view/doing-data-science/9781449363871/ch01.html)| [HW 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment1.pdf) | Thursday, 8/23| |
  | [R and RStudio](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%202%20R%20and%20RStudio.pdf)| | [HW 2](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment2.pdf) | Tuesday, 8/28|  |
- | R Packages and RMarkdown | | [HW 3](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment3.pdf)| Tuesday, 9/4 |  |
+ | R Packages and RMarkdown | | HW 3 | Tuesday, 9/4 (expected) |  |
   
   
  **Data Structures in R**
   
  | Topic | Reading | Assignment | Due Date | In Class Code |
   | :---  | :---:  | :---:  | :---:  | :---: |
-  | [Vectors, Matrices, and Arrays](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment4.pdf)| Tuesday, 9/11| |
-  | [Lists and Data Frames](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf) | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | [Data Structures III](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Data_Structures3.R) |
-  | [Tibbles](http://r4ds.had.co.nz/tibbles.html)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| [HW 5](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Tibbles.pdf) | Tuesday, 9/25 |  |
+  | Vectors, Matrices, and Arrays | | HW 4| Tuesday, 9/11 (expected)| |
+  | Lists and Data Frames | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | [Data Structures III](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Data_Structures3.R) |
+  | Tibbles| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| HW 5 | Tuesday, 9/25 (expected)|  |
   | Strings and Factors | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
 
 
