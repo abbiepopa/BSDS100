@@ -57,7 +57,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
  | Topic | Reading | Assignment | Due Date | In Class Code |
   | :---  | :---:  | :---:  | :---:  | :---: |
   | Vectors, Matrices, and Arrays | | HW 4| Tuesday, 9/11 (expected)| |
-  | Lists and Data Frames | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | [Data Structures III](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Data_Structures3.R) |
+  | Lists and Data Frames | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | |  |
   | Tibbles| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| HW 5 | Tuesday, 9/25 (expected)|  |
   | Strings and Factors | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
 
@@ -68,34 +68,37 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
   
    | Topic | Reading | Assignment | Due Date | In Class Code |
    | :---  | :---:  | :---:  | :---:  | :---: |
-   | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%206%20Input%20and%20Output.pdf) | | | | |  
-   | [Wrangling Data](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010%20Wrangling%20Data.pdf) | | | |
-   | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Plotting%20in%20R.pdf) | | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Visualization.pdf) | Thursday, 9/27||
-   | [String Analysis](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings.pdf)| Thursday, 10/4| |
-   | [String Analysis 2](http://r4ds.had.co.nz/strings.html)|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | [HW 8](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_Strings2.pdf)| Thursday, 10/11|  |
+   | Input and Output | | | | |  
+   | Wrangling Data | | | |
+   | Plotting in R | | HW 6 | Thursday, 9/27 (expected)||
+   | String Analysis|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
+   | String Analysis 2|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | HW 7 | Thursday, 10/11 (expected)|  |
  
  
  **Programming**
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | [Control Flow](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Functional%20Programming%20I.pdf)|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | |
- | [Writing Functions](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Functional%20Programming%20II.pdf)| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | |
- | [Functionals](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Functional%20Programming%20III.pdf)| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | 
+ | Control Flow|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | |
+ | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | | 
+ | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | HW 8 | | 
+ 
+ <!---
  
  **Statistical Modeling in R**
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | [Intro to Statistical Modeling in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2011%20Intro%20to%20Statistical%20Modeling.pdf) | [Ch. 23 and 24 in R for Data Science](http://r4ds.had.co.nz) | | | 
-
+--->
 
 ### Case Studies
-| Case Study | Data | Date |
+| Case Study | Data | In-Class Date | Due Date |
 |:--- | :---  | :---:  |
-|[CS 1: Beer Review Analysis](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Case%20Study%201/Beer_Analysis.pdf) | [beerdata.RData](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Case%20Study%201/beer.data.RData) | September 12th, 2017| 
-|[CS 2: Text Mining](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Case%20Study%202/CaseStudy2.pdf) | [[tweets.csv]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/tweets.csv); [[stateoftheunion1790-2012.txt]](https://raw.githubusercontent.com/jdwilson4/Intro-Data-Science/master/Data/stateoftheunion1790-2012.txt)| September 28th, 2017|
-|[CS 3: Building the Game of Blackjack](https://github.com/abbiepopa/BSDS100/blob/master/Code_Demonstrations/Case%20Study%203/CaseStudy3.pdf)| | November 8th, 2017|
+|CS 1|  | September 13th, 2018| September 27th, 2018 |
+|CS 2 | | October 23, 2018 | November 8, 2018 |
+
+<!---
 
 ### Final Project
 | Description | Due Date |
@@ -103,7 +106,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
 |[Project Signup](https://docs.google.com/spreadsheets/d/1pIAeZ1W5OENRyHbpfZgxKFzmGOtRNT2XkPkCQpjhzHI/edit?usp=sharing) | October 31st at 9:00 AM|
 |[Final Project Description](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Final_Project_Fall_2017.pdf) | November 30th at 9:00 AM|
 
-
+--->
 ### Important Dates
 
 - Monday, August 27th - Last day to add the class
@@ -111,4 +114,5 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
 - Tuesday, October 16th - Fall break! (**no class**)
 - Friday, November 2nd - Last day to withdraw
 - Thursday, November 22nd - Thanksgiving Holiday (**no class**)
+- Thursday, November 29 - Final Projects Due
 - Tuesday, December 4th - Last day of class
