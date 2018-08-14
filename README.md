@@ -94,7 +94,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
 
 ### Case Studies
 | Case Study | Data | In-Class Date | Due Date |
-|:--- | :---  | :---:  |
+|:--- | :---  | :---:  | :---: |
 |CS 1|  | September 13th, 2018| September 27th, 2018 |
 |CS 2 | | October 23, 2018 | November 8, 2018 |
 
