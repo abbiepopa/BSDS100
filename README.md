@@ -56,9 +56,9 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
   
  | Topic | Reading | Assignment | Due Date | In Class Code |
   | :---  | :---:  | :---:  | :---:  | :---: |
-  | Vectors, Matrices, and Arrays | | HW 4| Tuesday, 9/11 (expected)| |
+  | Vectors, Matrices, and Arrays | | HW 4| Thursday, 9/6 (expected)| |
   | Lists and Data Frames | [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | |  |
-  | Tibbles| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| HW 5 | Tuesday, 9/25 (expected)|  |
+  | Tibbles| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| HW 5 | Thursday, 9/13 (expected)|  |
   | Strings and Factors | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
 
 
@@ -70,9 +70,9 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
    | :---  | :---:  | :---:  | :---:  | :---: |
    | Input and Output | | | | |  
    | Wrangling Data | | | |
-   | Plotting in R | | HW 6 | Thursday, 9/27 (expected)||
+   | Plotting in R | | HW 6 | Tuesday, 10/16 (expected)||
    | String Analysis|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
-   | String Analysis 2|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | HW 7 | Thursday, 10/11 (expected)|  |
+   | String Analysis 2|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | HW 7 | Tuesday, 11/6 (expected)|  |
  
  
  **Programming**
@@ -81,7 +81,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
  | :---  | :---:  | :---:  | :---:  | :---: |
  | Control Flow|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | |
  | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | | 
- | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | HW 8 | | 
+ | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | HW 8 | Tuesday 11/20 (expected) | 
  
  <!---
  
@@ -96,7 +96,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
 | Case Study | Data | In-Class Date | Due Date |
 |:--- | :---  | :---:  | :---: |
 |CS 1|  | September 13th, 2018| September 27th, 2018 |
-|CS 2 | | October 23, 2018 | November 8, 2018 |
+|CS 2 | | October 23, 2018 | November 1, 2018 |
 
 <!---
 
