@@ -28,7 +28,7 @@ By the end of this course, you will be able to
 
 The focus of this course will be to provide you with the basic techniques available for making informed, data-driven decisions using the R programming language. This is *not* a statistics course, but will provide you the intuition to make hypotheses about complex questions through visualization, wrangling, manipulation, and exploration of data. The course will be graded based on the following components:
 
-- **Attendence** (20%): You will lose 2% of this grade for every class you miss.
+- **Attendence** (20%): Attendance will be recorded and you will lose points for every class you miss.
 - **Assignments** (40%): You will be assigned a computational assignment to be completed using RStudio and the package *knitr* regularly throughout class. 
 - **Case Studies** (20%): You will be assigned applied case studies throughout the class that are to be completed using RStudio.
 - **Final Project** (20%): The final project will be a computational case study that brings together the techniques learned throughout the semester. The description for this project will be provided towards the mid point of the semester.
