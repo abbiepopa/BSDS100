@@ -1,0 +1,36 @@
+---
+title: "Knit Example"
+author: "Abbie M Popa"
+date: "8/28/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is plain text.
+
+[//]: get new data, before showing to boss
+
+<!-- also a comment -->
+
+# This is a section of data
+
+## This is a smaller header
+
+$e^{i/pi} - 1 = 0$
+
+This is **bold** and this is *italics*
+
+`my_var <- 3`
+
+I have discovered that `2 + 3` equals `r 2 + 3`
+
+```{r set x, eval = T}
+  x <- 50
+```
+
+```{r call x, results = F}
+  iris
+```
