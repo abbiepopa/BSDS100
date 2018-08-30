@@ -57,7 +57,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
   
  | Topic | Reading | Assignment | Due Date | In Class Code |
   | :---  | :---:  | :---:  | :---:  | :---: |
-  | [Vectors, Matrices, and Arrays](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment4.pdf)| Thursday, 9/6 (expected)| |
+  | [Vectors, Matrices, and Arrays](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%204%20Data%20Structures%20I.pdf) | | [HW 4](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment4.pdf)| Thursday, 9/11 | |
   | [Lists and Data Frames](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%205%20Data%20Structures%20II.pdf)| [Ch. 20 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | |  |
   | Tibbles| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| HW 5 | Thursday, 9/13 (expected)|  |
   | Strings and Factors | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
