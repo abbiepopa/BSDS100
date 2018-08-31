@@ -1,0 +1,79 @@
+---
+title: "Lecture3_Knitr_Exercise"
+author: "Abbie M. Popa"
+date: "8/20/2018"
+output: pdf_document
+---
+
+# First make a new Rmd file
+
+# Delete the example code, leaving the setup options
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Load the guinea pig tooth growth data, look at the data, and read a description of it
+```{r loading the data}
+  data("ToothGrowth")
+  ToothGrowth
+  help("ToothGrowth")
+```
+
+# Display Column Names and Row Names for the Data
+# Look at the 16th row of the data
+# Look at the 3rd column of the data
+# Look at the variable named "dose"
+# Store a subset of the data, columns 1 and 3 and rows 24 - 48 for later use
+# Store the supplement name for later use
+```{r look at data}
+  colnames(ToothGrowth)
+  row.names(ToothGrowth)
+  ToothGrowth[16, ]
+  ToothGrowth[ , 3]
+  ToothGrowth$dose
+  tg_subset <- ToothGrowth[24:48, c(1,3)]
+  tg_supp <- ToothGrowth$supp
+```
+# Challenge Question: In groups answer
+## What are the different variables in the dataset?
+`r variable.names(ToothGrowth)`
+
+`r ?ToothGrowth`
+
+## How many guinea pigs were used in the experiment?
+
+## What are the different supplements used in the experiment?
+
+`r summary(ToothGrowth)`
+
+## What are the different doses used in the experiment?
+
+# Calculate the 5-number summary for the dataset
+
+```{r 5 num sum}
+  summary(ToothGrowth)
+```
+
+# Challenge Question: What seems odd about the "dose" data? 
+
+1st quartile equal min
+3rd quartile equals max
+
+# Make a table of supplement and dose information
+
+```{r table explore}
+  table(ToothGrowth$dose)
+  table(ToothGrowth$supp, ToothGrowth$dose)
+```
+
+
+## Challenge Question: In groups create a visual representation of tooth growth based on dose and supplement condition
+
+```{r plots}
+  plot(ToothGrowth$dose, ToothGrowth$len)
+  boxplot(ToothGrowth$dose, ToothGrowth$len)
+  boxplot(ToothGrowth$len~ToothGrowth$supp*ToothGrowth$dose)
+```
+
+
