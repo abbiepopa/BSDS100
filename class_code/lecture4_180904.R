@@ -173,3 +173,100 @@ rbind(my_first_matrix, my_n3_vector)
 my_n2_vector <- 1:2
 
 cbind(my_third_matrix, my_n2_vector)
+
+#######################
+### Slides 9 and 10 ###
+#######################
+
+
+# coding challenge
+# in pairs
+## create the vector myFavNum of your favorite fractional number
+
+myFavNum <- c(7/2)
+## create the vector myNums of your seven favorite numbers
+myNums <- c(2, 3, 3.12, 1, sqrt(2), 10/7, -5)
+
+## create the vector of firstNames of the first two people next to you (you should ask them if you don't know)
+
+firstNames <- c("Abbie", "Marin")
+
+## create the vector myVec of the last name and age of someone you know
+
+myVec <- c("Ripley", 3)
+
+## guess and then check what types your vectors are
+
+typeof(myFavNum)
+typeof(myNums)
+typeof(firstNames)
+typeof(myVec)
+
+myVec
+
+## guess and then check the lengths of each vector
+length(myFavNum)
+length(myNums)
+length(firstNames)
+length(myVec)
+
+## did you write the code in the console window or the editor?
+## How do you execute a line of code from the editor
+## how do you execute multiple lines of code from the editor?
+## did you use the tab button for auto-completion?
+length(myNums)
+
+
+################
+### Slide 13 ###
+################
+
+# Coding Challenge (cont.)
+# In pairs, complete the following
+## Add myFavNum to the seventh entry of myNums and store the result in a variable named myFirstAddition
+
+myFirstAddition <- (myFavNum + myNums[7])
+myFirstAddition
+
+## Add myFavNum to each of the seven entries of myNums and store the result in a variable named mySecondAddition
+
+(mySecondAddition <- myFavNum + myNums[1:7])
+
+## Add myFavNum to the total of all of the values in myNums and store the result in a variable named myFirstSum
+
+myFirstSum <- myFavNum + sum(myNums)
+
+## Add myFavNum to the smallest number in myNums and store the result in a variable named thisIsGettingMoreComplex
+
+(thisIsGettingMoreComplex <- myFavNum + min(myNums))
+## Add the second entry of myNums to the age of the person from myVec and store the result in a variable named whatTypeOfVectorIsThis
+
+whatTypeOfVectorIsThis <- myNums[2] + myVec[2]
+
+myVec[2]
+
+
+### Does what we did make sense? Did it work? Why?
+
+################
+### Slide 15 ###
+################
+
+# Coding Challenge
+# In pairs, set-up:
+my_n1_vector <- 5
+my_n3_vector <- 1:3
+my_n7_vector <- c(3, 7, 28, 43, 1, 5.5, 19)
+my_n9_vector <- sample(1:100, 9)
+
+## What happens if you add my_n1_vector to my_n3_vector?
+
+my_n1_vector + my_n3_vector
+## What happens if you add my_n3_vector to my_n9_vector?
+my_n3_vector + my_n9_vector
+
+## What happens if you add my_n7_vector to my_n9_vector?
+
+my_n7_vector + my_n9_vector
+## Bonus! Compare your my_n9_vector to your partners. Do they match? Why?
+
