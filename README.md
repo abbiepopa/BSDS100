@@ -101,7 +101,7 @@ I will do my best to keep this schedule accurate and up to date. However, I rese
 ### Case Studies
 | Case Study | Data | In-Class Date | Due Date |
 |:--- | :---  | :---:  | :---: |
-|CS 1|  | September 20th, 2018| October 2nd, 2018 |
+|[CS 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_1_Ramen.pdf)| [Ramen Reviews](https://github.com/abbiepopa/BSDS100/blob/master/Data/ramen.Rdata) | September 20th, 2018| October 2nd, 2018 |
 |CS 2 | | October 23, 2018 | November 1, 2018 |
 
 <!---
