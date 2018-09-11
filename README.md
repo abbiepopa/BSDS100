@@ -43,6 +43,8 @@ The focus of this course will be to provide you with the basic techniques availa
 
 I will do my best to keep this schedule accurate and up to date. However, I reserve the right to change it as I deem necessary. Usually this will be due to the amount of material we are able to cover in class.
 
+If you wish to view the notes I use during lecture you can see them [here](https://github.com/abbiepopa/BSDS100/tree/master/lecture_notes_preclass), though note I often change these based on class questions.
+
 **Introduction**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
