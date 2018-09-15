@@ -53,7 +53,11 @@ Use comparison operators (e.g., "<") to find how many trees need a smaller than 
 
 ## Preamble
 
+<<<<<<< HEAD
+The Questions dataset contains questions that were asked about the R programming language on the popular online forum stack overflow. Download the data from the github page, unzip it, then import the file with all the R questions into your current R session using the following line of code, you will need to change "dir" to whichever directory you saved your data in.
+=======
 The Questions dataset contains questions that were asked about the R programming language on the popular online forum stack overflow. Download the data from the github page, then import the file with all the R questions into your current R session using the following line of code, you will need to change "dir" to whichever directory you saved your data in.
+>>>>>>> a22e9a59e96817be14db38b8317d73f385e4f3b3
 
 ```{r load the question data}
   questions <- read.csv("dir/Questions.csv")
