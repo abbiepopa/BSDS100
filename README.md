@@ -106,15 +106,14 @@ If you wish to view the notes I use during lecture you can see them [here](https
 |[CS 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_1_Ramen.pdf)| [Ramen Reviews](https://github.com/abbiepopa/BSDS100/blob/master/Data/ramen.Rdata) | September 20th, 2018| October 2nd, 2018 |
 |CS 2 | | October 23, 2018 | November 1, 2018 |
 
-<!---
+
 
 ### Final Project
 | Description | Due Date |
 |:--- | :---  |
-|[Project Signup](https://docs.google.com/spreadsheets/d/1pIAeZ1W5OENRyHbpfZgxKFzmGOtRNT2XkPkCQpjhzHI/edit?usp=sharing) | October 31st at 9:00 AM|
-|[Final Project Description](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Final_Project_Fall_2017.pdf) | November 30th at 9:00 AM|
+| Project Sign-Up will be through a google doc link on Canvas | November 1st at 9 AM|
+|[Final Project Description](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Final_Project.pdf) | November 29th at 9:00 AM|
 
---->
 ### Important Dates
 
 - Monday, August 27th - Last day to add the class
