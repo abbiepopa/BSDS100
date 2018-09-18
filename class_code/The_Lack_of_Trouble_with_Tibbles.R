@@ -57,7 +57,7 @@ test_nums[2, ]
 
 # What happens, why? Now try it with test_nums2 instead of test_nums. Does it work? Why?
 
-# There are several commands and operators in R that only work on atomic vectors, try the following line of code
+# There are several commands and operators in R that won't work on atomic vectors, try the following line of code
 
 test_nums[test_nums$numbers > 5, ]
 
