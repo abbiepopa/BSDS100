@@ -64,7 +64,10 @@ If you wish to view the notes I use during lecture you can see them [here](https
   | [Tibbles](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%206%20Data%20Structures%20III.pdf)| [Ch. 10 in R for Data Science](http://r4ds.had.co.nz/tibbles.html)| [HW 5](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment5.pdf) | Tuesday, 9/25 | [Tibbles versus Data Frames Activity](https://github.com/abbiepopa/BSDS100/blob/master/class_code/The_Lack_of_Trouble_with_Tibbles.R) <br>  [Class Code Sept 13, 2018](https://github.com/abbiepopa/BSDS100/blob/master/class_code/livecode_180913.R)<br>  [Lecture Qs Sept 13, 2018](https://github.com/abbiepopa/BSDS100/blob/master/class_code/lecture_tibble_code_challenge.R) <br> [Class Code Sept 18, 2018](https://github.com/abbiepopa/BSDS100/blob/master/class_code/class_code_180918.R) <br> [Tibbles versus Data Frames Activity Answer Key](https://github.com/abbiepopa/BSDS100/blob/master/class_code/The_Lack_of_Trouble_with_Tibbles_AK.pdf)|
   | [Strings and Factors](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%207%20Factors%20Strings%20and%20Times.pdf) | [Ch. 14.1 - 14.2 and 15 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | |  [Factor and String Lab - Rmd](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Lab_Factors_and_Strings.Rmd) <br>  [Factor and String Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Lab_Factors_and_Strings.pdf) <br> [Tree Data](https://github.com/abbiepopa/BSDS100/blob/master/Data/oakland-street-trees.csv)<br>[Question Data](https://github.com/abbiepopa/BSDS100/blob/master/Data/Questions.csv.zip)|
 
+**Ethics in Data Science**
 
+| Topic | Reading | Assignment | Due Date | In Class Code |
+| [Ethics in Data Science](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%208%20Ethics%20in%20DS.pdf) | | | | |
   
   
   **Data Wrangling and Plotting**
