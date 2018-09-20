@@ -67,6 +67,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
 **Ethics in Data Science**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
+  | :---  | :---:  | :---:  | :---:  | :---: |
 | [Ethics in Data Science](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%208%20Ethics%20in%20DS.pdf) | | | | |
   
   
