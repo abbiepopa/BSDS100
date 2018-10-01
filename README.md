@@ -75,7 +75,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
   
    | Topic | Reading | Assignment | Due Date | In Class Code |
    | :---  | :---:  | :---:  | :---:  | :---: |
-   | Input and Output | | | | [Factor and String Lab - Rmd](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/class_code/Lab_Factors_and_Strings.Rmd) <br>  [Factor and String Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Lab_Factors_and_Strings.pdf) <br> [Tree Data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/oakland-street-trees.csv)<br>[Question Data](https://github.com/abbiepopa/BSDS100/blob/master/Data/Questions.csv.zip?raw=true)|  
+   | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%209%20Input%20and%20Output.pdf) | | | | [Factor and String Lab - Rmd](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/class_code/Lab_Factors_and_Strings.Rmd) <br>  [Factor and String Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Lab_Factors_and_Strings.pdf) <br> [Tree Data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/oakland-street-trees.csv)<br>[Question Data](https://github.com/abbiepopa/BSDS100/blob/master/Data/Questions.csv.zip?raw=true)|  
    | Wrangling Data | | | |
    | Plotting in R | | HW 6 | Tuesday, 10/16 (expected)||
    | String Analysis|[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | | | |
