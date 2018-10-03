@@ -86,8 +86,8 @@ If you wish to view the notes I use during lecture you can see them [here](https
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | Control Flow|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | |
- | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | | 
- | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | HW 8 | Tuesday 11/20 (expected) | 
+ | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| HW 8|Tuesday 11/20 (expected) | | 
+ | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| |  |  | 
  
  <!---
  
