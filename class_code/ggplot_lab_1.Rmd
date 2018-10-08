@@ -1,0 +1,161 @@
+---
+title: "Lab in `ggplot2`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+  knitr::opts_chunk$set(echo = T)
+```
+
+Load ggplot2 into your current `R` session.
+
+```{r libraries}
+  library(ggplot2)
+```
+
+## Question 1
+
+The `reshape2` package contains a dataset named `tips`, which contains information on dining trasactions. Load the `reshape2` package to gain access to this data (install it if you need to). Summary of the data follows:
+
+```{r tips summary}
+  library(reshape2)
+  str(tips)
+```
+
+Create the following graphs:
+
+(a) Plot `time` on x-axis, total_bill on the y-axis, colored by `smoker` and shaped by `sex`.
+
+
+```{r 1a}
+  
+```
+
+(b) `jitter` the previous plot so points are more visible
+
+```{r 1b}
+  
+```
+
+(c) Create the same plot with a "minimilist" theme
+
+```{r 1c}
+  
+```
+
+(d) Add a title to your plot
+
+```{r 1d}
+  
+```
+
+(e) Create a stacked bar graph with `time` on x-axis, `count` on the y-axis, filled by `sex`.
+
+```{r 1e}
+  
+```
+
+(f) Create a `dodge`d bar graph with `time` on x-axis, `count` on the y-axis, filled by `sex`.
+
+```{r 1f}
+  
+```
+
+(g) Change the color of your bars.
+
+```{r 1g}
+  
+```
+
+
+## Question 2
+
+Create some fictional data using the following code:
+
+```{r 2 setup}
+  set.seed(22)
+  x_int <- seq(10)
+  x_fact <- factor(seq(10))
+  y <- rnorm(10,2,13)
+  myDF <- data.frame(x_int, x_fact, y)
+```
+
+Note the `type`s of each of the columns in `myDF`.
+
+(a) Create a line graph with `x_int` on the x-axis and `y` on the y-axis.
+
+```{r 2a}
+  
+```
+
+(b) Add a title to you plot and make the title centered
+
+```{r 2b}
+  
+```
+(c) Add points to your plot
+
+```{r 2c}
+  
+```
+
+(d) Increase the font size
+
+```{r 2d}
+  
+```
+(e) Use the bw theme.
+
+```{r 2e}
+  
+```
+
+## Question 3
+
+Create some fictional data using the following code:
+
+```{r 3 set up, echo = T}
+set.seed(33)
+day <- rep(seq(7), 2)
+stockPrice <- rnorm(14, 2, 13)
+company <- c(rep("GOOG", 7), rep("APPL", 7))
+myDF <- data.frame(day, stockPrice, company)
+```
+
+(a) Create a line and point graph with `day` on the x-axis and `stockPrice` on the y-axis, grouped by `company`.
+
+```{r 3a}
+  
+```
+(b) Make a boxplot of the stock data with one box for google's stock prices and one box for apple's stock prices. Make the color of the box different for each company.
+
+
+```{r 3b}
+  
+```
+
+## Question 4
+
+(a) Using the dataframe "msleep" (which comes with ggplot2) make a histogram showing the sleep total values.
+
+```{r 4a}
+  
+```
+
+(b) Make the same histogram, this time with more bins (smaller binwidth)
+
+```{r 4b}
+  
+```
+
+(c) Make the same histogram, this time with fewer bins (larger binwidth)
+
+```{r 4c}
+  
+```
+
+(d) Read the documentation for "facet_wrap()". Use facet_wrap to make a plot with facets showing the "sleep_total" divided by "vore".
+
+```{r 4d}
+  
+```
