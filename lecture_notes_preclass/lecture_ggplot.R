@@ -153,13 +153,19 @@ qplot(carat, data = diamonds, facets = . ~ color, geom = "histogram")
 ### Slide 46 ###
 ################
 
+# warm-up answers
+
+################
+### Slide 47 ###
+################
+
 qplot(carat, price, data = diamonds, colour = cut)
 
 ggplot(diamonds, aes(carat, price, colour = cut))
 # nothing there! yet...
 
 ################
-### Slide 47 ###
+### Slide 48 ###
 ################
 
 ggplot(diamonds, aes(carat, price, colour = cut)) + geom_point()
@@ -173,7 +179,7 @@ my_plot + geom_point()
 my_plot + geom_boxplot()
 
 ################
-### Slide 48 ###
+### Slide 49 ###
 ################
 
 # Let's see how a given fit line can be applied to a few different plots
@@ -184,7 +190,7 @@ qplot(sleep_rem, sleep_total, data = msleep) + myBestFitLine
 qplot(awake, brainwt, data = msleep) + myBestFitLine
 
 ################
-### Slide 49 ###
+### Slide 50 ###
 ################
 
 myPlot <- ggplot(diamonds, aes(carat, price, colour = cut)) +
@@ -200,13 +206,13 @@ myPlot
 ggplot(diamonds, aes(x = carat, y = price, colour = color)) + geom_point()
 
 ################
-### Slide 52 ###
+### Slide 53 ###
 ################
 
 (myPlot <- ggplot(mtcars, aes(x = mpg, y = wt)) + geom_point())
 
 ################
-### Slide 53 ###
+### Slide 54 ###
 ################
 
 myPlot + geom_point(aes(colour = factor(cyl)))
@@ -217,7 +223,7 @@ myPlot + geom_point(aes(colour = cyl))
 # it treats the cyl variable as continuous
 
 ################
-### Slide 54 ###
+### Slide 55 ###
 ################
 
 myPlot + geom_point(aes(y = disp))
@@ -225,7 +231,7 @@ myPlot + geom_point(aes(y = disp))
 # better to update these key aesthetics in the ggplot() call
 
 ################
-### Slide 58 ###
+### Slide 59 ###
 ################
 
 install.packages("nlme")
@@ -237,7 +243,7 @@ ggplot(Oxboys, aes(age, height)) + geom_line()
 ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line()
 
 ################
-### Slide 60 ###
+### Slide 61 ###
 ################
 
 # example (wrong)
@@ -247,7 +253,7 @@ ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line() + geom_smooth()
 ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line() + geom_smooth(group = 1)
 
 ################
-### Slide 61 ###
+### Slide 62 ###
 ################
 
 ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = Subject))
@@ -257,7 +263,7 @@ ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = S
 ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = Subject), colour = "steelblue")
 
 ################
-### Slide 62 ###
+### Slide 63 ###
 ################
 
 ggplot(Oxboys, aes(height)) + geom_bar()
@@ -267,7 +273,7 @@ ggplot(Oxboys, aes(height)) + geom_point()
 ggplot(Oxboys, aes(Occasion, height)) + geom_point()
 
 ################
-### Slide 64 ###
+### Slide 65 ###
 ################
 
 # recall, for scatter pltos we use "jitter"
@@ -295,7 +301,7 @@ plot_pos + geom_bar(position = "identity")
 # just lets them overlap
 
 ################
-### Slide 66 ###
+### Slide 67 ###
 ################
 
 plot_pos + geom_bar()
@@ -309,7 +315,7 @@ ggplot(msleep, aes(bodywt, sleep_total)) + geom_point()
 ggplot(msleep, aes(bodywt, sleep_total)) + geom_point() + xlim(xmin = -1, xmax = 1000)
 
 ################
-### Slide 67 ###
+### Slide 68 ###
 ################
 
 plot_pos + geom_bar() + ggtitle("Engines and Cylinders") + theme(plot.title = element_text(hjust = 0.5))
@@ -317,7 +323,7 @@ plot_pos + geom_bar() + ggtitle("Engines and Cylinders") + theme(plot.title = el
 ?element_text
 
 ################
-### Slide 68 ###
+### Slide 69 ###
 ################
 
 plot_pos + geom_bar()
