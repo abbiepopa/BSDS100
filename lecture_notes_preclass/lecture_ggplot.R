@@ -153,10 +153,54 @@ qplot(carat, data = diamonds, facets = . ~ color, geom = "histogram")
 ### Slide 46 ###
 ################
 
-# warm-up answers
+# even numbers from 2 to 10, each number repeated 2 times, in order
 
 ################
 ### Slide 47 ###
+################
+
+# with transition variables
+# delete transition variables when done
+
+################
+### Slide 48 ###
+################
+
+# with magrittr
+
+################
+### Slide 49 ###
+################
+
+dog_cat <- factor(c("dog", "dog", "cat", "dog")) 
+as.character(dog_cat)
+
+class(dog_cat)
+
+dog_cat <- factor(c("dog", "dog", "cat", "dog"))
+dog_cat <- as.character(dog_cat)
+class(dog_cat)
+
+################
+### Slide 50 ###
+################
+
+# iris versicolor and sepal.length
+
+# iris versicolor sepal.length and sepal.width
+
+################
+### Slide 52 ###
+################
+
+# warm-up answers
+
+# scatter plot with plot of sepal.length vs sepal.width
+
+# scatter plot with qplot of sepal.length vs sepal.width and color is Species
+
+################
+### Slide 54 ###
 ################
 
 qplot(carat, price, data = diamonds, colour = cut)
@@ -165,7 +209,7 @@ ggplot(diamonds, aes(carat, price, colour = cut))
 # nothing there! yet...
 
 ################
-### Slide 48 ###
+### Slide 55 ###
 ################
 
 ggplot(diamonds, aes(carat, price, colour = cut)) + geom_point()
@@ -179,7 +223,7 @@ my_plot + geom_point()
 my_plot + geom_boxplot()
 
 ################
-### Slide 49 ###
+### Slide 56 ###
 ################
 
 # Let's see how a given fit line can be applied to a few different plots
@@ -190,7 +234,7 @@ qplot(sleep_rem, sleep_total, data = msleep) + myBestFitLine
 qplot(awake, brainwt, data = msleep) + myBestFitLine
 
 ################
-### Slide 50 ###
+### Slide 57 ###
 ################
 
 myPlot <- ggplot(diamonds, aes(carat, price, colour = cut)) +
@@ -200,20 +244,16 @@ summary(myPlot)
 myPlot
 
 ################
-### Slide 50 ###
+### Slide 58 ###
 ################
 
 ggplot(diamonds, aes(x = carat, y = price, colour = color)) + geom_point()
 
 ################
-### Slide 53 ###
+### Slide 59 ###
 ################
 
 (myPlot <- ggplot(mtcars, aes(x = mpg, y = wt)) + geom_point())
-
-################
-### Slide 54 ###
-################
 
 myPlot + geom_point(aes(colour = factor(cyl)))
 
@@ -223,15 +263,24 @@ myPlot + geom_point(aes(colour = cyl))
 # it treats the cyl variable as continuous
 
 ################
-### Slide 55 ###
+### Slide 62 ###
 ################
 
 myPlot + geom_point(aes(y = disp))
 # note the name of the y axis didn't change, darn it!
 # better to update these key aesthetics in the ggplot() call
 
+myPlot + geom_point(aes(y = disp)) + ylab("disp")
+
 ################
-### Slide 59 ###
+### Slide 64 ###
+################
+
+ggplot(mtcars, aes(group = interaction(cyl, vs), y = mpg, 
+                   fill = interaction(cyl, vs))) + geom_boxplot()
+
+################
+### Slide 65 ###
 ################
 
 install.packages("nlme")
@@ -243,7 +292,7 @@ ggplot(Oxboys, aes(age, height)) + geom_line()
 ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line()
 
 ################
-### Slide 61 ###
+### Slide 68 ###
 ################
 
 # example (wrong)
@@ -253,7 +302,7 @@ ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line() + geom_smooth()
 ggplot(Oxboys, aes(age, height, group = Subject)) + geom_line() + geom_smooth(group = 1)
 
 ################
-### Slide 62 ###
+### Slide 69 ###
 ################
 
 ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = Subject))
@@ -263,7 +312,7 @@ ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = S
 ggplot(Oxboys, aes(Occasion, height)) + geom_boxplot() + geom_line(aes(group = Subject), colour = "steelblue")
 
 ################
-### Slide 63 ###
+### Slide 70 ###
 ################
 
 ggplot(Oxboys, aes(height)) + geom_bar()
@@ -273,7 +322,7 @@ ggplot(Oxboys, aes(height)) + geom_point()
 ggplot(Oxboys, aes(Occasion, height)) + geom_point()
 
 ################
-### Slide 65 ###
+### Slide 72 ###
 ################
 
 # recall, for scatter pltos we use "jitter"
@@ -301,7 +350,7 @@ plot_pos + geom_bar(position = "identity")
 # just lets them overlap
 
 ################
-### Slide 67 ###
+### Slide 74 ###
 ################
 
 plot_pos + geom_bar()
@@ -315,7 +364,7 @@ ggplot(msleep, aes(bodywt, sleep_total)) + geom_point()
 ggplot(msleep, aes(bodywt, sleep_total)) + geom_point() + xlim(xmin = -1, xmax = 1000)
 
 ################
-### Slide 68 ###
+### Slide 75 ###
 ################
 
 plot_pos + geom_bar() + ggtitle("Engines and Cylinders") + theme(plot.title = element_text(hjust = 0.5))
@@ -323,7 +372,7 @@ plot_pos + geom_bar() + ggtitle("Engines and Cylinders") + theme(plot.title = el
 ?element_text
 
 ################
-### Slide 69 ###
+### Slide 76 ###
 ################
 
 plot_pos + geom_bar()
