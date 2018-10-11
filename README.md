@@ -78,7 +78,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
    | [Input and Output](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%209%20Input%20and%20Output.pdf) | | [HW 6](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment6.pdf) | Tuesday, 10/16 | [Factor and String Lab - Rmd](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/class_code/Lab_Factors_and_Strings.Rmd) <br>  [Factor and String Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Lab_Factors_and_Strings.pdf) <br> [Tree Data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/oakland-street-trees.csv)<br>[Question Data](https://github.com/abbiepopa/BSDS100/blob/master/Data/Questions.csv.zip?raw=true) <br> [Class Code](https://github.com/abbiepopa/BSDS100/blob/master/class_code/class_code_181002.R) <br> [singles data](https://github.com/abbiepopa/BSDS100/blob/master/Data/singles.txt) <br> [triples data](https://github.com/abbiepopa/BSDS100/blob/master/Data/triples.txt)|  
    | [Plotting in R](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010%20Plotting%20in%20R.pdf) | | | |[Plotting Lab as .Rmd](https://github.com/abbiepopa/BSDS100/blob/master/class_code/ggplot_lab_1.Rmd) <br> [Plotting Lab as .PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/ggplot_lab_1.pdf)<br>  [Class Code 181009](https://github.com/abbiepopa/BSDS100/blob/master/class_code/class_code_181009.R)|
    | Wrangling Data | [Ch. 12 in R for Data Science](http://r4ds.had.co.nz) | | |
-   | String Analysis |[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | HW 7 | Tuesday, 11/6 (expected)|  |
+   | String Analysis |[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) | HW 7 | Tuesday, 11/13 |  |
  
  
  **Programming**
@@ -86,7 +86,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | Control Flow|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | | | |
- | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| HW 8|Tuesday 11/20 (expected) | | 
+ | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| HW 8|Tuesday 11/20 | | 
  | Functionals| [Ch. 18 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| |  |  | 
  
  <!---
@@ -107,7 +107,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
 | Case Study | Data | In-Class Date | Due Date |
 |:--- | :---  | :---:  | :---: |
 |[CS 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_1_Ramen.pdf)| [Ramen Reviews](https://github.com/abbiepopa/BSDS100/blob/master/Data/ramen.Rdata?raw=true) | September 25th, 2018| October 9th, 2018 |
-|[CS 2](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_2.pdf)|[hour data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/hour.csv)<br>[day data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/day.csv) | October 23, 2018 | November 1, 2018 |
+|[CS 2](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_2.pdf)|[hour data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/hour.csv)<br>[day data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/day.csv) | October 23, 2018 | November 8, 2018 |
 
 
 
