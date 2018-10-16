@@ -1,7 +1,6 @@
 ---
-title: "Wrangling Lab Answer Key"
+title: "Wrangling Lab"
 author: "Abbie M Popa"
-date: "10/16/2018"
 output: pdf_document
 ---
 
