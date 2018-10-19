@@ -106,9 +106,9 @@ If you wish to view the notes I use during lecture you can see them [here](https
 | [Song Lyrics](https://github.com/abbiepopa/BSDS100/blob/master/class_code/DS_in_the_Wild_Example1.pdf)|
 
 ### Case Studies
-| Case Study | Data | In-Class Date | Due Date |
-|:--- | :---  | :---:  | :---: |
-|[CS 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_1_Ramen.pdf)| [Ramen Reviews](https://github.com/abbiepopa/BSDS100/blob/master/Data/ramen.Rdata?raw=true) | September 25th, 2018| October 9th, 2018 |
+| Case Study | Data | In-Class Date | Due Date | Notes |
+|:--- | :---  | :---:  | :---: | :---: |
+|[CS 1](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_1_Ramen.pdf)| [Ramen Reviews](https://github.com/abbiepopa/BSDS100/blob/master/Data/ramen.Rdata?raw=true) | September 25th, 2018| October 9th, 2018 | [Case Study 1 Notes](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010.5%20CS1%20Review.pdf)
 |[CS 2](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Case_Study_2.pdf)|[hour data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/hour.csv)<br>[day data](https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/day.csv) | October 23, 2018 | November 8, 2018 |
 
 
