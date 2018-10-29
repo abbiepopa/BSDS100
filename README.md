@@ -87,8 +87,8 @@ If you wish to view the notes I use during lecture you can see them [here](https
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | [Control Flow](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2015%20Control%20Flow.pdf)|[Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html) | HW 8|Tuesday 11/20 | |
- | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/vectors.html)| | | | 
+ | [Control Flow](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2015%20Control%20Flow.pdf)|[Ch. 21 in R for Data Science](http://r4ds.had.co.nz/iteration.html) | HW 8|Tuesday 11/20 | |
+ | Writing Functions| [Ch. 19 in R for Data Science](http://r4ds.had.co.nz/functions.html)| | | | 
  
  <!---
  
