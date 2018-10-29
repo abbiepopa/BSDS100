@@ -80,7 +80,7 @@ If you wish to view the notes I use during lecture you can see them [here](https
    | [Wrangling Data with tidyr](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2011%20Wrangling%20Data%20with%20tidyr.pdf) | [Ch. 12 in R for Data Science](http://r4ds.had.co.nz) | | |[Class Code 181025](https://github.com/abbiepopa/BSDS100/blob/master/class_code/class_code_181025.R)|
    | [Wrangling Data with dplyr - I](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2012%20Wrangling%20Data%20with%20dplyr%20I.pdf) | | | | [Wrangling Lab - Rmd](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Wrangling_Lab.Rmd) <br> [Wrangling Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Wrangling_Lab.pdf)|
    | [Wrangling Relational Data with dplyr](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2013%20Wrangling%20Relational%20Data%20with%20dplyr.pdf) | |  [HW 7](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Assignment_7_AMP.pdf) |  Tuesday, 11/13| [Join Lab - Rmd](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Join_Lab.Rmd) <br> [Join Lab - PDF](https://github.com/abbiepopa/BSDS100/blob/master/class_code/Join_Lab.pdf)|
-   | String Analysis |[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) || |  |
+   | [String Analysis](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2014%20String%20Analysis.pdf)  |[Ch. 14.3 - 14.7 in R for Data Science](http://r4ds.had.co.nz/strings.html) || |  |
  
  
  **Programming**
