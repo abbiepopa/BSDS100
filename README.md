@@ -116,7 +116,8 @@ If you wish to view the notes I use during lecture you can see them [here](https
 | Description | Due Date | Notes |
 |:--- | :---  | :---:|
 | Project Sign-Up will be through a google doc link on Canvas | November 1st at 9 AM| |
-|[Final Project Description](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Final_Project.pdf) | November 29th at 9:00 AM| [Final Tips and Tricks](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010.75%20Tips%20for%20Success.pdf)
+|[Final Project Description](https://github.com/abbiepopa/BSDS100/blob/master/Assignments/Final_Project.pdf) | November 29th at 9:00 AM| [Final Tips and Tricks](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2010.75%20Tips%20for%20Success.pdf) <br> [Presentation Tips](https://github.com/abbiepopa/BSDS100/blob/master/Lectures/Lecture%2015.5%20Presentation%20Tips.pdf)
+
 
 ### Important Dates
 
