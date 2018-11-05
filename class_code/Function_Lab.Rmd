@@ -1,0 +1,69 @@
+---
+title: "Function Lab"
+author: "Abbie M Popa"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Part 1
+
+(a) Write a function that takes a vector as input and returns the difference between the maximum value in a vector and the minimum value in a vector
+
+```{r 1a}
+
+```
+
+(b) Make three vectors, on of the number 1 to 10, one of the even number 2 to 20, and one of the number 10 to 100 counting by 10s
+
+```{r 1b}
+
+```
+
+(c) Run your function from part (a) on each of your vectors
+
+```{r 1c}
+
+```
+
+(d) Make a vector of strings, `c("my", "name", "is", "bob")`, run your function from part (a) on this vector, what happens? (Note, remember to comment out lines of code that throw errors before knitting.)
+
+```{r 1d}
+
+```
+
+
+(e) Make a matrix of the numbers 1 to 100 filled by row with 10 rows and 10 columns. 
+
+```{r 1e}
+
+```
+
+(f) Use `apply` to run your function from (a) on all the rows of your matrix in part `e`, then run your function on all the columns.
+
+```{r 1f}
+
+```
+
+## Part 2
+
+(a) Write a function that takes a string, convers it to lower case, removes the words "a", "an" and "the", removes extra white spaces, then returns the new string. (Hint: use the `stringr` package.)
+
+```{r 2a}
+  library(stringr)
+
+```
+
+(b) Run your function on the `sentences` dataset (which comes with `stringr`). Print the first 10 new sentences.
+
+```{r 2b}
+
+```
+
+(c) What happens if you run your function on a vector containing the numbers 1 through 10?
+
+```{r 2c}
+
+```
