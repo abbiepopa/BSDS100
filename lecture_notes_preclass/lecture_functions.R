@@ -1,3 +1,66 @@
+
+###############################
+### Control Flow Lab Review ###
+###############################
+
+# Read in data
+titanic <- read.csv("https://raw.githubusercontent.com/abbiepopa/BSDS100/master/Data/titanic.csv")
+
+# question 1: Using a for() loop and an if() conditional, recode the entries in the Survived varaible with "Survived" and "Perished" into a new column survived_text
+
+table(titanic$Survived)
+
+titanic$survived_text <- "survived"
+
+for(i in 1:length(titanic$Survived)){
+  if(titanic$Survived[i] == 0){
+    titanic$survived_text[i] <- "perished"
+  }
+}
+
+# question 2: Using the if() command and a loop, create a new variable of type ordered factor in the data frame called ageClass, and map Age to "Minor" if less than 18 yrs, 18<= Adult <= 65, and "Senior" if older than 65 years
+
+summary(titanic$Age)
+
+titanic$ageClass <- NA
+
+for(j in 1:length(titanic$Age)){
+  i <- titanic$Age[j]
+  if(is.na(i)){
+    titanic$ageClass[j] <- NA
+  }else if(i <= 18){
+    titanic$ageClass[j] <- "Minor"
+  }else if(i <= 65){
+    titanic$ageClass[j] <- "Adult"
+  }else if(i > 65){
+    titanic$ageClass[j] <- "Senior"
+  }
+}
+
+titanic$ageClass <- factor(titanic$ageClass, 
+                           ordered = T, 
+                           levels = c("Minor", "Adult", "Senior"))
+
+head(titanic[, c("Age", "ageClass")], n = 15)
+
+library(dplyr)
+summarise(group_by(titanic, ageClass), 
+          mean_age = mean(Age, na.rm = T), 
+          min_age = min(Age, na.rm = T), 
+          max_age = max(Age, na.rm = T))
+
+# question 3: using a switch() statement, identify each passenger class, Pclass, as either "First class", "Business Class", or "Economy and print the results to the console
+
+for(i in titanic$Pclass){
+  print(
+    switch(i,
+           "1" = "First Class",
+           "2" = "Business",
+           "3" = "Economy")
+  )
+}
+
+
 ###############
 ### slide 5 ###
 ###############
