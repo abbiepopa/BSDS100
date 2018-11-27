@@ -126,5 +126,5 @@ If you wish to view the notes I use during lecture you can see them [here](https
 - Tuesday, October 16th - Fall break! (**no class**)
 - Friday, November 2nd - Last day to withdraw
 - Thursday, November 22nd - Thanksgiving Holiday (**no class**)
-- Thursday, November 29 - Final Projects Due
+- Thursday, December 7 - Final Projects Due
 - Tuesday, December 4th - Last day of class
